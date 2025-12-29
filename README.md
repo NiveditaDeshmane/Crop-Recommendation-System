@@ -103,12 +103,5 @@ streamlit run app.py
 
 ---
 
-##  Author
-**Ankit Jadhav**  
- Data Science & Machine Learning Enthusiast  
-www.linkedin.com/in/ankit-jadhav-5556ankit
-
----
-
 ##  License
 This project is open-source under the **MIT License**.
